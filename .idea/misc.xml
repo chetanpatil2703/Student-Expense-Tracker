@@ -20,10 +20,14 @@
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/drawable/ic_launcher_background.xml" value="0.177" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/drawable/ic_send.xml" value="0.179" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/drawable/rounded_edit_text.xml" value="0.2035" />
-        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_dashboard.xml" value="0.18541666666666667" />
+        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.19921875" />
+        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout-w936dp/activity_login.xml" value="0.271875" />
+        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_dashboard.xml" value="0.4" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_expense.xml" value="0.3697916666666667" />
+        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_login.xml" value="0.3625" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_profile.xml" value="0.3697916666666667" />
+        <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_registration.xml" value="0.3625" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/activity_split_bills.xml" value="0.3625" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/custom_action_bar.xml" value="0.3697916666666667" />
         <entry key="..\:/Apps/Student Expense Tracker/app/src/main/res/layout/header.xml" value="0.3484375" />
